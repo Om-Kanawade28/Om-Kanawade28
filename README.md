@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Om Kanawade</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=om-kanawade28&label=Profile%20views&color=0e75b6&style=flat" alt="om-kanawade28" /> </p>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
