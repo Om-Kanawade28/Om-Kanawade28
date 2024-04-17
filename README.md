@@ -14,4 +14,4 @@
 
 
 
-<p style="background-color: black;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=om-kanawade28&" alt="om-kanawade28" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=om-kanawade28&" alt="om-kanawade28"/></p>
