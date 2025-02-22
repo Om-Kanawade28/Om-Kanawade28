@@ -32,4 +32,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=om-kanawade28" alt="om-kanawade28"/>
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=om-kanawade28)](https://git.io/streak-stats)
+
